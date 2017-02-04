@@ -1,0 +1,93 @@
+body {
+		background-image: url(../images/pattern.png);
+
+}
+
+.navbar {
+	
+	background: #37c7b7;
+
+}
+
+.navbar-brand{
+	color: white;
+}
+
+.navbar-nav {
+float: right;
+margin-right: 20px;
+text-decoration-color: white;
+}
+
+a {
+	color: white;
+}
+
+
+.jumbotron {
+	margin-top: 50px;
+    background-image: url(../images/miami3.jpg);
+    background-position: 100%;
+    background-size: cover;
+    color: white;
+    text-shadow: lightblue 0.3em 0.3em 0.3em;
+    padding-top: 90px;
+}
+
+.container {
+	margin-top: 50px;
+}
+
+.col-lg-7 {
+background: white;
+margin-right:8px;
+}
+
+.thumbnail {
+	width: 180px;
+	height: 180px;
+}
+
+h1 {
+	color: #37c7b7;
+}
+
+p {
+	margin-left:25px;
+	line-height: 30px;
+}
+
+#git, #linkedin, #overflow {
+	height: 90px;
+	width: 90px;
+	margin-left: 12px;
+}
+
+.panel-body {
+	background-image: url(../images/pattern2.jpg);
+}
+
+.col-lg-4 {
+	text-align: center;
+	color: #37c7b7;
+	margin: auto;
+
+}
+
+.panel-title {
+	color: #37c7b7;
+}
+
+footer {
+  
+
+  height: 80px;
+  background-color: #37c7b7;
+  text-align: center;
+  padding-top: 20px;
+  margin-top: 50px;
+  width: 100%;
+  border-top: 5px solid #e8d695;
+
+}
+

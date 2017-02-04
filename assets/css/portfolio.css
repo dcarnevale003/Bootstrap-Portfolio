@@ -1,0 +1,181 @@
+body {
+		background-image: url(../images/pattern.png);
+
+}
+
+.navbar {
+	
+	background: #37c7b7;
+
+}
+
+.navbar-brand{
+	color: white;
+}
+
+.navbar-nav {
+float: right;
+margin-right: 20px;
+text-decoration-color: white;
+}
+
+a {
+	color: white;
+}
+
+
+.jumbotron {
+	margin-top: 50px;
+    background-image: url(../images/miami3.jpg);
+    background-position: 100%;
+    background-size: cover;
+    color: white;
+    text-shadow: lightblue 0.3em 0.3em 0.3em;
+    padding-top: 90px;
+}
+
+.container {
+	margin-top: 50px;
+}
+
+.col-lg-7 {
+background: white;
+margin-right:8px;
+}
+
+
+
+h1 {
+	color: #37c7b7;
+}
+
+.main-content{
+	
+	width: 960px;
+	margin: auto;
+}
+
+section {
+	
+	clear: both;
+	width: 650px;
+	color: #777777;
+	float: left;
+	background-color: #fff;
+	margin-bottom: 40px;
+	margin-left: -10px;
+	font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
+}
+
+
+
+
+
+
+.img-panel {
+	position: relative;
+	max-width: 310px;
+	overflow: auto;
+	float: left;
+	margin-left: 8px;
+	margin-right: -5px;
+}
+
+.img-panel h4{
+	z-index: 1;
+	position: absolute;
+	bottom: 15px;
+	background-color: #4aaaa5;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	margin-left: 20px;
+	width: 277px;
+}
+
+
+
+
+
+#p1 {
+	
+	width: 277px;
+	height: 200px;
+	margin: 10px;
+	margin-left: 20px;
+}
+
+#p2 {
+	
+	width: 277px;
+	height: 200px;
+	margin: 10px;
+	margin-left: 20px;
+
+
+}
+
+#p3 {
+	
+	width: 277px;
+	height: 200px;
+	margin: 10px;
+	margin-left: 20px;
+
+}
+
+#p4 {
+	
+	width: 277px;
+	height: 200px;
+	margin-left: 50px;
+	margin: 10px;
+	margin-left: 20px;
+}
+
+#p5 {
+	
+	width: 277px;
+	height: 200px;
+	margin: 10px;
+	margin-left: 20px;
+}
+	
+
+#git, #linkedin, #overflow {
+	height: 90px;
+	width: 90px;
+	margin-left: 12px;
+}
+
+.panel-body {
+	background-image: url(../images/pattern2.jpg);
+
+}
+
+.col-lg-4 {
+	text-align: center;
+	color: #37c7b7;
+	margin-left: auto;
+
+
+}
+
+
+.panel-title {
+	color: #37c7b7;
+}
+
+footer {
+  
+
+  height: 80px;
+  background-color: #37c7b7;
+  text-align: center;
+  padding-top: 20px;
+  margin-top: 50px;
+  width: 100%;
+  border-top: 5px solid #e8d695;
+
+}
+
